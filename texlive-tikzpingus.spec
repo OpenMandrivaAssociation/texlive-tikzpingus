@@ -1,6 +1,6 @@
 Name:		texlive-tikzpingus
 Version:	64199
-Release:	1
+Release:	2
 Summary:	Penguins with TikZ
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tikzpingus
