@@ -3,7 +3,7 @@ Version:	68310
 Release:	1
 Summary:	Penguins with TikZ
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tikzpingus
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tikzpingus
 License:	gpl3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikzpingus.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikzpingus.doc.r%{version}.tar.xz
