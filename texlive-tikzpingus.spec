@@ -1,5 +1,5 @@
 Name:		texlive-tikzpingus
-Version:	68310
+Version:	72990
 Release:	1
 Summary:	Penguins with TikZ
 Group:		Publishing
